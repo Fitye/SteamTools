@@ -191,7 +191,7 @@
     <PackageVersion Include="Swashbuckle.AspNetCore.Newtonsoft" Version="6.3.1" />
     <PackageVersion Include="AspNetCore2.NETStandard.Swashbuckle.AspNetCore" Version="6.3.0" />
     <PackageVersion Include="AspNetCore2.NETStandard.Swashbuckle.AspNetCore.Annotations" Version="6.3.0" />
-    <PackageVersion Include="AspNetCore2.NETStandard.Swashbuckle.AspNetCore.Newtonsoft" Version="6.3.0" />
+    <PackageVersion Include="AspNetCore2.NETStandard.Swashbuckle.AspNetCore.Newtonsoft" Version="6.3.1" />
 
     <!-- Pay -->
     <!--<PackageVersion Include="AlipaySDKNet.Standard" Version="4.6.109" />-->
